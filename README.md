@@ -13,6 +13,7 @@ kelas: TI.22.A3
 ![Screenshot (180)](https://user-images.githubusercontent.com/115686359/195775380-e579b84b-e601-419c-ba5e-29d5abb3e1b5.png)
 
 3. Buat direktori dengan perintah "mkdir" lalu, dimasukkan ke direktorinya menggunakan "cd" gunakan perintah git init untuk membuat repository local.
+
 ![Screenshot (183)](https://user-images.githubusercontent.com/115686359/195776706-f01d7341-e4ed-4c70-989f-aa18af4ba7db.png)
 
 4. Kemudian buat file README memggunakan perintah "echo" atau menggunakan "git add (nama file)"

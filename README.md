@@ -17,6 +17,7 @@ kelas: TI.22.A3
 
 4. Kemudian buat file README memggunakan perintah "echo" atau menggunakan "git add (nama file)"
 ![Screenshot (184)](https://user-images.githubusercontent.com/115686359/195778258-a4a3a457-e885-436a-a6aa-d800fdaa1768.png)
+
 file README.md telah berhasil dibuat, kemudian cek status jika ada file baru dengan perintah "git status"
 ![Screenshot (185)](https://user-images.githubusercontent.com/115686359/195779033-74e536b8-1628-4dc6-ad8d-3fc3dbbafb58.png)
 

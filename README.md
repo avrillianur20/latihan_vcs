@@ -27,4 +27,12 @@ file README.md telah berhasil dibuat, kemudian cek status jika ada file baru den
 ![Screenshot (188)](https://user-images.githubusercontent.com/115686359/195780941-956828bb-e015-49b0-b0b9-16d636345630.png)
 
 7. Buat repository server menggunakan GIThub sebelumnya harus membuat akun terlebih dahulu, kemudian klik ikon(+) "New Story"
+![Screenshot (190)](https://user-images.githubusercontent.com/115686359/195782306-be98a5f7-fd85-4c55-a223-05f3a66f0f7b.png)
+
+8. Kemudian kembali ke GITbash, dengan menggunakan perintah "git remote add origin (URL) untuk menambahkan remote ripository.
+![Screenshot (192)](https://user-images.githubusercontent.com/115686359/195784099-bed376bc-53d9-4ea0-b86e-6e7ad49be7bf.png)
+
+9. Lalu cek ripository di Github 
+
+
 

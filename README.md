@@ -20,6 +20,7 @@ kelas: TI.22.A3
 file README.md telah berhasil dibuat, kemudian cek status jika ada file baru dengan perintah "git status"
 ![Screenshot (185)](https://user-images.githubusercontent.com/115686359/195779033-74e536b8-1628-4dc6-ad8d-3fc3dbbafb58.png)
 
+
 5. Gunakan perintah "nano" dalam mengubah suatu file
 ![Screenshot (186)](https://user-images.githubusercontent.com/115686359/195779938-9e497977-d3c4-4eb6-a9fa-859df9e26834.png)
 
@@ -33,6 +34,13 @@ file README.md telah berhasil dibuat, kemudian cek status jika ada file baru den
 ![Screenshot (192)](https://user-images.githubusercontent.com/115686359/195784099-bed376bc-53d9-4ea0-b86e-6e7ad49be7bf.png)
 
 9. Lalu cek ripository di Github 
+![Screenshot (193)](https://user-images.githubusercontent.com/115686359/195786053-a11d81a9-f35f-4943-a542-24987f2f91af.png)
 
+Kalau berhasil maka ada file yang ditambahkan di github nya
 
+10. Dalam menyalin repository server gunakan perintah "git cllone (URL)"
+![Screenshot (195)](https://user-images.githubusercontent.com/115686359/195787353-f4bc5918-3f3b-40cd-a7a4-99a77155e1ae.png)
 
+Jika berhasil maka satu direktori nya secara otomatis langsung muncul pada direkrori yang setuju
+
+Dan itulah sebuah tutorial yang dapat saya buat, kurang dan lebih nya mohon maaf, saya ucapkan terimakasih

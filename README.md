@@ -24,6 +24,7 @@ file README.md telah berhasil dibuat, kemudian cek status jika ada file baru den
 
 
 5. Gunakan perintah "nano" dalam mengubah suatu file
+
 ![Screenshot (186)](https://user-images.githubusercontent.com/115686359/195779938-9e497977-d3c4-4eb6-a9fa-859df9e26834.png)
 
 6. kemudian lakukan perintah "git commit -m (komentar commit)" untuk menyimpan perubahan kedalam data base repository local.

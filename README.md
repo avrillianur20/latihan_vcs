@@ -44,6 +44,6 @@ Kalau berhasil maka ada file yang ditambahkan di github nya
 10. Dalam menyalin repository server gunakan perintah "git cllone (URL)"
 ![Screenshot (195)](https://user-images.githubusercontent.com/115686359/195787353-f4bc5918-3f3b-40cd-a7a4-99a77155e1ae.png)
 
-Jika berhasil maka satu direktori nya secara otomatis langsung muncul pada direkrori yang setuju
+Jika berhasil maka satu direktori nya secara otomatis langsung muncul pada direktori yang setuju
 
 Dan itulah sebuah tutorial yang dapat saya buat, kurang dan lebih nya mohon maaf, saya ucapkan terimakasih
